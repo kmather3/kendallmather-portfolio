@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kendall Mather</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Kendall Mather</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>kendallmather@gmail.com (Kendall Mather)</managingEditor>
+    <webMaster>kendallmather@gmail.com (Kendall Mather)</webMaster>
+    <copyright>© 2026 Kendall Mather</copyright>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Creativity</title>
+      <link>http://localhost:1313/tags/creativity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/creativity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/tags/culture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/culture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Factor Analysis</title>
+      <link>http://localhost:1313/tags/factor-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/factor-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Item Response Theory</title>
+      <link>http://localhost:1313/tags/item-response-theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/item-response-theory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Measurement</title>
+      <link>http://localhost:1313/tags/measurement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/measurement/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Personality</title>
+      <link>http://localhost:1313/tags/personality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/personality/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://localhost:1313/tags/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/r/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statistical Learning</title>
+      <link>http://localhost:1313/tags/statistical-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kendallmather@gmail.com (Kendall Mather)</author>
+      <guid>http://localhost:1313/tags/statistical-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
