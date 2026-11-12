@@ -38,8 +38,7 @@ jobs:
 
       - name: Build with Hugo
         run: |
-        hugo --gc --minify \
-          --baseURL "https://kendallmather.com/"
+          hugo --gc --minify --baseURL "https://kendallmather.com/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
